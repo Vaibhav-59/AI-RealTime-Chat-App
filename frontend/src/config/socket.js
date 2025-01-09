@@ -3,10 +3,9 @@ import socket from 'socket.io-client';
 
 let socketInstance = null;
 
-const VITE_API_URL='https://chat-app-backend-paex.onrender.com';
 export const initializeSocket = (projectId) => {
 
-    socketInstance = socket( VITE_API_URL, {
+    socketInstance = socket( import.meta.env.VITE_API_URL, {
         auth: {
             token: localStorage.getItem('token')
         },
