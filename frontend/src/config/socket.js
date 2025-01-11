@@ -5,7 +5,7 @@ let socketInstance = null;
 
 export const initializeSocket = (projectId) => {
 
-    socketInstance = socket( 'http://localhost:8080', {
+    socketInstance = socket( 'https://chat-app-backend-paex.onrender.com', {
         auth: {
             token: localStorage.getItem('token')
         },
