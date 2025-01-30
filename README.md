@@ -1,0 +1,10 @@
+# AI RealTime ChatApp
+![Screenshot 2025-01-30 075346](https://github.com/user-attachments/assets/89f666be-0946-46ea-bbd3-0fb865ab311f)
+![Screenshot 2025-01-30 075357](https://github.com/user-attachments/assets/c9fdbf6d-a779-4b43-845a-e996428968cf)
+![Screenshot 2025-01-30 075421](https://github.com/user-attachments/assets/a4009682-d517-42ff-ad74-b13c96f4aa01)
+![Screenshot 2025-01-30 075433](https://github.com/user-attachments/assets/cf0d8737-64c4-43a3-b85d-90f20b8196f1)
+![Screenshot 2025-01-30 075446](https://github.com/user-attachments/assets/0939ee87-c29f-41fc-a368-25a36e4ab04d)
+![Screenshot 2025-01-30 075457](https://github.com/user-attachments/assets/0881aadc-e2f4-4ecd-ba13-39fc5ae776c7)
+![Screenshot 2025-01-30 075541](https://github.com/user-attachments/assets/7c659865-c906-4e1a-bd72-d7a0798aeee5)
+![Screenshot 2025-01-30 075557](https://github.com/user-attachments/assets/500c3d4e-23bd-48d9-a33a-045e58df7dc5)
+![Screenshot 2025-01-30 075922](https://github.com/user-attachments/assets/a9a8f927-1e85-48f5-a5fc-412a105737f4)
